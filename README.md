@@ -1,4 +1,5 @@
 # Mechanical Notes
+*Semester - I*
 | Syllabus Subject | Corresponding NPTEL Course Name | NPTEL Course Code | Official Link |
 | :--- | :--- | :--- | :--- |
 | **Engineering Mathematics I** | Engineering Mathematics-I | `111105121` | [https://nptel.ac.in/courses/111105121](https://nptel.ac.in/courses/111105121) |
