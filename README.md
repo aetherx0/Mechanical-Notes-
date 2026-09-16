@@ -9,3 +9,5 @@
 | **Manufacturing Practices / Workshop Lab** | Manufacturing Process Technology - Part I | `112104195` | [https://nptel.ac.in/courses/112104195](https://nptel.ac.in/courses/112104195) |
 | **Communication Skills** | Technical Communication for Engineers | `121107451` | [https://nptel.ac.in/courses/121107451](https://nptel.ac.in/courses/121107451) |
 | **Life Skills-I** | Developing Soft Skills and Personality | `109104107` | [https://nptel.ac.in/courses/109104107](https://nptel.ac.in/courses/109104107) |
+
+e-books:https://ekumbh.aicte-india.org/book.php
